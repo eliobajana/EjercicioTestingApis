@@ -1,0 +1,7 @@
+CONCLUSIONES:
+
+* Dentro de las pruebas en general se evidencia la falta de mensajes controlados correctamente.
+* No existe metodos de autenticación.
+* Al Crear un nuevo usuario no muestra ningun mensaje.
+* No existe un control de numeros de caracteres.
+* No existe un control de caracteres especiales.
